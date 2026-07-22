@@ -1,11 +1,13 @@
 {
     "version": "1.2.78",
+    "homepage": "https://github.com/goretk/redress",
     "url": "https://github.com/goretk/redress/releases/download/v1.2.78/redress-v1.2.78-windows.zip",
-    "extract_dir": "redress-v$version",
+    "extract_dir": "redress-v1.2.78",
     "hash": "b301697163aec69c54c5c5437975596a04db18261763459fba731a623d450131",
     "bin": "redress.exe",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/goretk/redress/releases/download/v$version/redress-v$version-windows.zip",
+        "extract_dir": "redress-v$version",
     }
 }
