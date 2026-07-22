@@ -1,5 +1,6 @@
 {
     "version": "1.2.78",
+    "license": "AGPL-3.0",
     "homepage": "https://github.com/goretk/redress",
     "url": "https://github.com/goretk/redress/releases/download/v1.2.78/redress-v1.2.78-windows.zip",
     "extract_dir": "redress-v1.2.78",
