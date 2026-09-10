@@ -1,10 +1,10 @@
 {
-    "version": "1.2.84",
+    "version": "1.2.85",
     "license": "AGPL-3.0",
     "homepage": "https://github.com/goretk/redress",
-    "url": "https://github.com/goretk/redress/releases/download/v1.2.84/redress-v1.2.84-windows.zip",
-    "extract_dir": "redress-v1.2.84",
-    "hash": "2ac003cdf8efec6347ecc8a1c09f4f5bc0729c6212c83ce1b3c82d32850a6477",
+    "url": "https://github.com/goretk/redress/releases/download/v1.2.85/redress-v1.2.85-windows.zip",
+    "extract_dir": "redress-v1.2.85",
+    "hash": "c3ab76bb2fdcf2644bde3a3ceceb2cc03424de5a5b29513d7bb561d60d5b875e",
     "bin": "redress.exe",
     "checkver": "github",
     "autoupdate": {
