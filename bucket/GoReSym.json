@@ -1,11 +1,11 @@
 {
-  "license": "MIT",
-  "url": "https://github.com/mandiant/GoReSym/releases/download/v3.4/GoReSym-windows.zip",
-  "bin": "GoReSym.exe",
-  "version": "3.4",
-  "homepage": "https://github.com/mandiant/GoReSym",
-  "checkver": "github",
-  "autoupdate": {
-      "url": "https://github.com/goretk/redress/releases/download/v$version/GoReSym-windows.zip",
-  }
+    "license": "MIT",
+    "url": "https://github.com/goretk/redress/releases/download/v3.4.1/GoReSym-windows.zip",
+    "bin": "GoReSym.exe",
+    "version": "3.4.1",
+    "homepage": "https://github.com/mandiant/GoReSym",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/goretk/redress/releases/download/v$version/GoReSym-windows.zip"
+    }
 }
